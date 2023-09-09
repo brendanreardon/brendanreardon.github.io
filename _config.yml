@@ -2,18 +2,11 @@
 # theme-repo: https://github.com/jekyll/minima/tree/master
 
 title: Brendan Reardon
-description: Brendan Reardon's personal website
 
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# social links
-github_username: brendanreardon
-google_scholar: K_J6gxsAAAAJ&hl
-linkedin_username: brendan-reardon-ba3b7247
-twitter_username: brendan_reardon
 
 minima:
   date_format: "%Y-%m-%d"
