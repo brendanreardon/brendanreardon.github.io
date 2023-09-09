@@ -20,8 +20,8 @@ plugins:
 minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%Y-%m-%d"
+  
+  date_format: "%Y-%m-%d"
 
   # Generate social links in footer.
   #
