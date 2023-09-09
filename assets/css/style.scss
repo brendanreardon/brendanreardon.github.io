@@ -1,0 +1,15 @@
+---
+---
+
+@import;
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+  body {
+    background-color: #fffaf3;
+  }
+
+  ul {
+    color: #1756a9;
+  }
+
