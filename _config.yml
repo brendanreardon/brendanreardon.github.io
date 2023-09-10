@@ -10,3 +10,6 @@ plugins:
 
 minima:
   date_format: "%Y-%m-%d"
+
+header_pages:
+  - about.md
