@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title: About
+custom_title: About me
 permalink: /about/
 ---
 My name is Brendan Reardon and I am currently a computational biologist in the [Van Allen laboratory](https://vanallenlab.dana-farber.org/){:target="_blank"}{:rel="noopener noreferrer"} at [Dana-Farber Cancer Institute](https://www.dana-farber.org/){:target="_blank"}{:rel="noopener noreferrer"} and [Broad Institute of MIT & Harvard](https://www.broadinstitute.org/){:target="_blank"}{:rel="noopener noreferrer"}, using clinical computational oncology for precision cancer medicine. Here, I lead the [clinical interpretation](https://www.nature.com/articles/s43018-021-00243-3){:target="_blank"}{:rel="noopener noreferrer"} group, manage our cloud compute and storage infastructure, and contribute to various other research projects. Additionally, I am a graduate student in the [Culhane Lab](https://www.ul.ie/research/prof-aedin-culhane){:target="_blank"}{:rel="noopener noreferrer"} at the University of Limerick. 
