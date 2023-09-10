@@ -1,25 +1,13 @@
+---
+---
+
 @import "{{ site.theme }}";
 
-  body {
-    background-color: #fffaf3;
-  }
+body {
+	background-color: #fffaf3;
+}
 
-  ul {
-    color: #1756a9;
-  }
-
-  a:link {
-    color: red;
-  }
-
-  a:visited {
-    color: green;
-  }
-
-  a:hover {
-    color: hotpink;
-  }
-
-  a:active {
-    color: blue;
-  }
+.site-header {
+	border-top: 0px;
+	border-bottom: 0px;
+}
