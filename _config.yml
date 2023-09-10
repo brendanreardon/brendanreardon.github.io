@@ -10,8 +10,3 @@ plugins:
 
 minima:
   date_format: "%Y-%m-%d"
-  social_links:
-     - { platform: github,         user_url: "https://github.com/brendanreardon/" }
-     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=K_J6gxsAAAAJ&hl=en" }
-     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/brendan-reardon-ba3b7247/" }
-     - { platform: twitter,        user_url: "https://twitter.com/brendan_reardon" }
