@@ -6,10 +6,10 @@ layout: home
 ---
 
 You can find [me](/about) online on,
+- [Bluesky](https://bsky.app/profile/brendanreardon.com){:target="_blank"}{:rel="noopener noreferrer"}
 - [GitHub](https://github.com/brendanreardon){:target="_blank"}{:rel="noopener noreferrer"}
 - [Google Scholar](https://scholar.google.com/citations?user=K_J6gxsAAAAJ&hl=en){:target="_blank"}{:rel="noopener noreferrer"}
 - [LinkedIn](https://www.linkedin.com/in/brendan-reardon-ba3b7247){:target="_blank"}{:rel="noopener noreferrer"}
-- [Twitter](https://twitter.com/brendan_reardon){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## News
 - 2023-08-13 - workshop presentation at annual [Cancer Genomics Consortium conference](https://github.com/vanallenlab/2023-cgc){:target="_blank"}{:rel="noopener noreferrer"}
