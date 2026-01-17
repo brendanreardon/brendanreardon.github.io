@@ -9,7 +9,7 @@ You can find [me](/about) online on:
 - [LinkedIn](https://www.linkedin.com/in/brendan-reardon-ba3b7247){:target="_blank"}
 
 ## News
-- 2026-01-15 - A context-augmented large language model for accurate precision oncology medicine recommendations published in [Cancer Cell](/Users/brendan/GitHub/areas/cv/curriculum-vitae.pdf).
+- 2026-01-15 - A context-augmented large language model for accurate precision oncology medicine recommendations published in [Cancer Cell](https://authors.elsevier.com/sd/article/S1535-6108(25)00551-3).
 - 2026-01-02 - Convergence of machine learning and genomics for precision oncology published in [_Nature Reviews Cancer_](https://www.nature.com/articles/s41568-025-00897-6)
 - 2024-11-26 - began co-leading the [GA4GH Categorical Variant Representation Specification Product Group](https://www.ga4gh.org/product/categorical-variation-catvar/){:target="_blank"}
 - 2023-08-13 - workshop presentation at annual [Cancer Genomics Consortium conference](https://github.com/vanallenlab/2023-cgc){:target="_blank"}
