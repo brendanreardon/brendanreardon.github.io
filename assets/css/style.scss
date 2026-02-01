@@ -1,21 +1,26 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
+:root {
+  --background-color: #ffffff;
+  --primary-color: #9278EF;
+  --secondary-color: #E6E0FB;
+}
+
 body {
-	background-color: #ffffff;
+  background-color: var(--background-color);
 }
 
 .site-header {
-	border-top: 0px;
-	border-bottom: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
 }
 
 .site-footer {
-	border-top: 0px;
-	border-bottom: 0px;
-	padding: $spacing-unit 0;
+  border-top: 0px;
+  border-bottom: 0px;
+  padding: $spacing-unit 0;
 }
 
 /* Default link styles within footers, list, and paragraphs */
@@ -24,24 +29,30 @@ footer a:visited,
 li a:link,
 li a:visited,
 p a:link,
-p a:visited, {
-  color: #000000; /* Color for links and visited links */
-  text-decoration: underline; /* No underline by default */
+p a:visited {
+  color: #000000;
+  /* Color for links and visited links */
+  text-decoration: underline;
+  /* No underline by default */
 }
 
 /* Hover state styles for hyperlinks */
 p a:hover,
 li a:hover,
 footer a:hover {
-  color: #9278EF; /* Color on hover */
-  text-decoration: underline; /* Underline on hover */
+  color: var(--primary-color);
+  /* Color on hover */
+  text-decoration: underline;
+  /* Underline on hover */
 }
 
 /* Hover state styles for hyperlinks in header and nav */
 .site-header a:hover,
 .site-title a:hover {
-  color: #9278EF; /* Color on hover */
-  text-decoration: none; /* Underline on hover */
+  color: var(--primary-color);
+  /* Color on hover */
+  text-decoration: none;
+  /* Underline on hover */
 }
 
 /* Highlight background color */
@@ -51,12 +62,34 @@ footer a:hover::selection,
 footer a::selection,
 header a:hover::selection,
 header a::selection,
+h1::selection,
+h2::selection,
+h3::selection,
+h4::selection,
+h5::selection,
+h6::selection,
 li:hover::selection,
 li::selection,
 nav:hover::selection,
 nav::selection,
 p:hover::selection,
 p::selection {
-  background-color: #E6E0FB; /* Background color when text is selected */
-  color: inherit; /* Ensure text color remains readable */
+  background-color: var(--secondary-color);
+  /* Background color when text is selected */
+  color: inherit;
+  /* Ensure text color remains readable */
+}
+
+/* Troy outline color for icon and 404 */
+.troy-icon {
+  color: #000000;
+  height: auto;
+  margin: 2rem auto;
+  max-width: 25vw;
+  max-height: 25vh;
+  width: 100%;
+}
+
+.troy-icon:hover {
+  color: var(--primary-color);
 }
