@@ -13,3 +13,6 @@ minima:
 
 header_pages:
   - about.md
+
+sass:
+  quiet_deps: true
